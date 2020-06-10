@@ -2,6 +2,9 @@
 
 This repository contains my exercises and projects for the [Computer Vision Nanodegree ](https://www.udacity.com/course/computer-vision-nanodegree--nd891) at [Udacity](https://Udacity.com).
 
+## Course Nanodegree Certificate
+<img src="https://github.com/imsaksham-c/Udacity-ComputerVision-Nanodegree/blob/master/cvnanodegree.jpg"
+
 ## Project 1: Facial Keypoint Detection
 
 [Facial Keypoint Detection Project](project_1_facial_keypoints)<br/>
